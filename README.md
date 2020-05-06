@@ -13,8 +13,3 @@ MVP Phase 3 - add voice command to be able to navigate recipe steps
 
 
 ## Documentation
-
-
-## Dependencies
-
-
